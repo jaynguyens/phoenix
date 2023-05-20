@@ -5,6 +5,10 @@
 * [Installation](README.md)
 * [Folder Structure](get-started/folder-structure.md)
 
+## Understand Phoenix
+
+* [Page 2](understand-phoenix/page-2.md)
+
 ## Tutorials
 
 * [Page 1](tutorials/page-1.md)
