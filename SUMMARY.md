@@ -7,12 +7,12 @@
 
 ## Understand Phoenix
 
-* [Page 2](understand-phoenix/page-2.md)
+* [Page 1](understand-phoenix/page-1.md)
 
 ## Tutorials
 
-* [Page 1](tutorials/page-1.md)
+* [Tutorial](tutorials/tutorial.md)
 
 ## API Reference
 
-* [Page 3](api-reference/page-3.md)
+* [Page 2](api-reference/page-2.md)
