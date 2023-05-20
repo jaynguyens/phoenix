@@ -9,6 +9,6 @@
 
 * [Page 1](tutorials/page-1.md)
 
-## API Refence
+## API Reference
 
-* [Page 3](api-refence/page-3.md)
+* [Page 3](api-reference/page-3.md)
